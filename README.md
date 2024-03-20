@@ -7,3 +7,5 @@
 ### [Lab 7](https://github.com/jatindhobi/Android-Studio/blob/main/Jump_One_Activity_To_Another_Activity.zip) : Go to the another activity from One activity
 ### [Lab 8](https://github.com/jatindhobi/Android-Studio/blob/main/Length_of_String.zip) : Print the Length of the String
 ### [Lab 9](https://github.com/jatindhobi/Android-Studio/blob/main/Login.zip) : Login App
+### [Lab 10](https://github.com/jatindhobi/Android-Studio/blob/main/QR_Code_Scan.zip) : QR Code Scan App
+### [Lab 11](https://github.com/jatindhobi/Android-Studio/blob/main/Recylerview.zip) : Recycler View Concept
